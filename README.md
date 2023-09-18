@@ -23,7 +23,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajakumarverma) 
-
+# 
 #### I hold a bachelor's degree in information technology and live in New Delhi. Apart from tech, I love to read, enjoy music, and explore the outdoors in nature. If you are around Delhi or the Delhi NCR region, please drop me an email, and let's catch up over coffee!
 
 ## <h2>📫 Contact Us:</h2>
